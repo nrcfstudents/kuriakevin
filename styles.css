@@ -1,4 +1,3 @@
--0,0 +1,73 @@
 /* General reset */
 * {
     margin: 0;
@@ -72,6 +71,3 @@ body {
 .nav-links a:hover::after {
     width: 100%;
 }
-0 comments on commit 90ce3d4
-@nrcfhub
-Comment
