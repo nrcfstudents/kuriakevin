@@ -1,0 +1,23 @@
+body{
+	background: lawngreen;
+	margin-top: 20px;
+	margin-left: 50px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+}
+.project-main-container{
+	display: flex;
+	justify-content: space-between;
+}
+.project-container{
+	border: solid 1px;
+	padding:40px ;
+     background-color: #3498db; /* Change this to any color you prefer */
+  padding: 20px;
+  border-radius: 10px;
+  color: white; /* Adjust text color to ensure readability */ 
+}
+.nav-bar{
+	display: flex;
+	justify-content: space-between;
+}
